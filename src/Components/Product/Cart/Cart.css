@@ -1,0 +1,13 @@
+.cart {
+  background-color: #ffe0b3;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+.cart h2 {
+  text-align: center;
+}
+.cart p {
+  font-size: 17px;
+}
